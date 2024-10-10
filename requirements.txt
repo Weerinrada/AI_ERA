@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain.agents
+langchain.callbacks
+langchain_community
+langchain.tools
+boto3
+botocore.config
